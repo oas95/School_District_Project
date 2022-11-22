@@ -1,4 +1,6 @@
-# pandas-challenge
+# School District Project
+District Summary: Number of Unique Schools, Total Students, Total Budget, Average math & reading scores, percentage passing, and overall passing students
+School Summary: School Name, School Type, Total School Budget, Budget per Student, Average math & reading scores, Percent passing and Percent Overall Passing scores
 _____________________________
 
 ![image](https://github.com/oas95/pandas-challenge/blob/main/PyCitySchools/Images/education.png)
